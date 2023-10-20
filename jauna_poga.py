@@ -1,2 +1,2 @@
-#Jaunā poga
+#Jaunā poga jā
 print("jauna poga")
