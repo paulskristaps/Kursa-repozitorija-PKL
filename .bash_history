@@ -41,3 +41,17 @@ git config --global user.email "paulskristaps.l@gmail.com"
 git config --global user.name "Pauls:"
 git commit -m "undo"
 git push
+git checkout main
+git reset --hard main
+git branch
+ls
+git push --force origin master
+git add .
+git checkout master
+git branch
+git commit -m "a"
+git checkout master
+ls
+git branch
+git checkout main
+ls
