@@ -1,0 +1,15 @@
+version: 1
+formatters:
+  default:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+handlers:
+  file:
+    class: logging.FileHandler
+    formatter: default
+    filename: Webscraper/logfile.log
+    level: DEBUG
+loggers:
+  my_logger:
+    level: DEBUG
+    handlers: [file]
