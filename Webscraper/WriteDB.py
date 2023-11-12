@@ -1,9 +1,16 @@
-import sqlite3
+import mysql.connector
 
 #Izveidot savienojumu ar datubāzi
 
-connection = sqlite3.connect("Webscraper/database.db")
-cursor = connection.cursor()
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="root",
+  password="admin123",
+  database="data"
+)
+
+# connection = sqlite3.connect("Webscraper/database.db")
+cursor = mydb.cursor()
 
 #Izveido jaunu tabulu, ja tāda jau nēeksistē
 cursor.execute('''CREATE TABLE IF NOT EXISTS products (
@@ -23,11 +30,11 @@ for line in data:
     if "out of" in line:
         rating = line.strip().split(" out of ")[0]
         if "rating" not in product_info:
-            product_info["rating"] = rating
+            product_info["rating"] = float(rating)
     elif "$" in line:
         price = line.strip().split("$")[1]
         if "price" not in product_info:
-            product_info["price"] = price
+            product_info["price"] = float(price)
     else:
         if len(line) <= 1:
             continue
@@ -40,10 +47,11 @@ for line in data:
         rating = product_info.get("rating", "NONE SUPPLIED")
         price = product_info.get("price", "NONE SUPPLIED")
 
-        cursor.execute("INSERT INTO products (title, rating, price) VALUES (?, ?, ?)", (title, rating, price))
+        cursor.execute("INSERT INTO products (title, rating, price) VALUES (%s, %s, %s)", (title, rating, price))
 
         product_info = {}
 
 #Saglabā un aizver savienojumu
-connection.commit()
-connection.close()
+mydb.commit()
+mydb.close()
+cursor.close()

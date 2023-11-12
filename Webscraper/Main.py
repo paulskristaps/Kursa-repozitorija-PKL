@@ -1,8 +1,10 @@
-import sqlite3
+import mysql.connector
 import logging
 import logging.config
 import yaml
+import os
 
+#atver konfigurācijas failu
 with open("Webscraper/logging_config.yaml", "r") as config_file:
     config = yaml.safe_load(config_file)
 
@@ -10,8 +12,14 @@ logging.config.dictConfig(config)
 
 logger = logging.getLogger("my_logger")
 
-connection = sqlite3.connect("Webscraper/database.db")
-cursor = connection.cursor()
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="root",
+  password="admin123",
+  database="data"
+)
+
+cursor = mydb.cursor()
 
 #Paņem visu produktu informāciju no datubāzes
 logger.debug("Selecting data from DB...")
@@ -30,5 +38,7 @@ with open("Webscraper/logfile.log", "r") as printout:
     for row in printout:
         print(row)
 
-connection.commit()
-connection.close()
+mydb.commit()
+mydb.close()
+
+cursor.close()

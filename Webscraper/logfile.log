@@ -1,1 +1,294 @@
 
+2023-11-12 12:54:44,180 - my_logger - DEBUG - Selecting data from DB...
+2023-11-12 12:56:55,278 - my_logger - DEBUG - Selecting data from DB...
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #1 -- Hanes Men's Ecosmart Fleece Sweatshirt, Cotton-blend Pullover, Crewneck Sweatshirt for Men (1 Or 2 Pack) has a rating of 4.6, and it costs $8.91
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #2 -- Crocs Unisex-Adult Classic Clogs has a rating of 4.8, and it costs $35.98
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #3 -- Carhartt Men's Knit Cuffed Beanie has a rating of 4.8, and it costs $18.6
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #4 -- Gloria Vanderbilt Women's Classic Amanda High Rise Tapered Jean has a rating of 4.3, and it costs $10.0
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #5 -- Hanes EcoSmart Hoodie, Midweight Fleece, Pullover Hooded Sweatshirt for Men has a rating of 4.5, and it costs $16.75
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #6 -- Fruit of the Loom Eversoft Fleece Hoodies, Pullover & Full Zip, Moisture Wicking & Breathable, Sizes S-4X has a rating of 4.6, and it costs $13.49
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #7 -- Jar of Fucks（5oz）Gift Jar,Fucks to Give,Fuck Wooden Cutout Letter Piece Bad Mood Vent Spoof Birthday Day,Holiday, Gift to Friend,Funny Gift,Valentines Day. has a rating of 4.9, and it costs $13.99
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #8 -- Cats Dogs ID Tags Personalized Lovely Symbols Pets Collar Name Accessories Simple Custom Engraved Products for Extra Small Four Legged Child Necklace Chain Anti-Lost Shiny Stainless Steel Charm has a rating of 4.7, and it costs $5.98
+
+2023-11-12 12:56:55,279 - my_logger - INFO - Product #9 -- 14K Gold Filled Small Hoop Earrings for Cartilage Nose, Tiny Thin 7mm Piercing Hoop Ring 22 Gauge has a rating of 4.0, and it costs $12.98
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #10 -- 3mm Tiny CZ Screw on Flat Back Stud Earrings,14K Gold Flat Back Cubic Zirconia Earrings for Helix Cartilage Tragus Earlobe Piercing Jewelry Gift for Women Girls Toddlers(3mm CZ, Gold) has a rating of 4.4, and it costs $11.95
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #11 -- Locsanity Daily Moisturizing Refreshing Spray for Locs, Dreadlocks - Rose Water and Peppermint Hair Scalp Moisturizer, Dreadlock Spray - Natural Loc Care and Maintenance (8oz) has a rating of 4.5, and it costs $19.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #12 -- Personalized Custom Wood Name Sign, Nursery Name Sign, Family Name Signs, Choice of Size & Fonts! has a rating of 4.5, and it costs $7.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #13 -- Amazon Fire TV Stick, HD, sharp picture quality, fast streaming, free & live TV, Alexa Voice Remote with TV controls has a rating of 4.7, and it costs $19.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #14 -- All-new Amazon Fire TV Stick 4K streaming device, more than 1.5 million movies and TV episodes, supports Wi-Fi 6, watch free & live TV has a rating of 4.5, and it costs $49.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #15 -- All-new Amazon Fire TV Stick 4K Max streaming device, supports Wi-Fi 6E, free & live TV without cable or satellite has a rating of 4.5, and it costs $59.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #16 -- Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Charcoal has a rating of 4.7, and it costs $49.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #17 -- Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black) has a rating of 4.3, and it costs $59.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #18 -- Blink Mini – Compact indoor plug-in smart security camera, 1080p HD video, night vision, motion detection, two-way audio, easy set up, Works with Alexa – 1 camera (White) has a rating of 4.4, and it costs $17.38
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #19 -- Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More has a rating of 4.7, and it costs $45.0
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #20 -- Alpha Grillers Instant Read Meat Thermometer for Grill and Cooking. Best Waterproof Ultra Fast Thermometer with Backlight & Calibration. Digital Food Probe for Kitchen, Outdoor Grilling and BBQ! has a rating of 4.7, and it costs $15.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #21 -- Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24-oz, Blue/Teal (Denim) has a rating of 4.8, and it costs $23.05
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #22 -- Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Men Him Her | Trek Collection | Almond Birch has a rating of 4.8, and it costs $29.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #23 -- Stanley IceFlow Stainless Steel Tumbler with Straw, Vacuum Insulated Water Bottle for Home, Office or Car, Reusable Cup with Straw Leakproof Flip has a rating of 4.7, and it costs $35.0
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #24 -- Reynolds Kitchens Slow Cooker Liners, Regular (Fits 3-8 Quarts), 6 Count has a rating of 4.8, and it costs $3.48
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #25 -- The Woman in Me has a rating of 4.5, and it costs $16.4
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #26 -- Iron Flame: Empyrean, Book 2 has a rating of 4.7, and it costs $36.74
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #27 -- Friends, Lovers, and the Big Terrible Thing: A Memoir has a rating of 4.5, and it costs $17.82
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #28 -- Fourth Wing: Empyrean, Book 1 has a rating of 4.8, and it costs $7.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #29 -- My Name Is Barbra has a rating of 4.6, and it costs $61.25
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #30 -- Resurrection Walk has a rating of 4.8, and it costs $27.94
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #31 -- CELSIUS Assorted Flavors Official Variety Pack, Functional Essential Energy Drinks, 12 Fl Oz (Pack of 12) has a rating of 4.7, and it costs $35.99
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #32 -- Premier Protein Shake 30g Protein 1g Sugar 24 Vitamins Minerals Nutrients to Support Immune Health For keto diet , Chocolate, 11.5 Fl Oz (Pack of 12), Liquid,Powder, Bottle has a rating of 4.5, and it costs $22.49
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #33 -- Amazon Brand - Solimo Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers 100 Count(Pack of 1) has a rating of 4.4, and it costs $24.46
+
+2023-11-12 12:56:55,280 - my_logger - INFO - Product #34 -- Sparkling ICE, Black Raspberry Sparkling Water, Zero Sugar Flavored Water, with Vitamins and Antioxidants, Low Calorie Beverage, 17 fl oz Bottles (Pack of 12) has a rating of 4.7, and it costs $10.98
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #35 -- Starbucks K-Cup Coffee Pods—Medium Roast Coffee—Pike Place Roast for Keurig Brewers—100% Arabica—4 boxes (96 pods total) has a rating of 4.7, and it costs $45.31
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #36 -- Nespresso Capsules VertuoLine, Stormio, Dark Roast Coffee, Coffee Pods, Brews 7.77 Ounce (VERTUOLINE ONLY), 10 Count (Pack of 3) has a rating of 4.8, and it costs $37.5
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #37 -- Hanes Men's Ecosmart Fleece Sweatshirt, Cotton-blend Pullover, Crewneck Sweatshirt for Men (1 Or 2 Pack) has a rating of 4.6, and it costs $8.91
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #38 -- Crocs Unisex-Adult Classic Clogs has a rating of 4.8, and it costs $35.98
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #39 -- Carhartt Men's Knit Cuffed Beanie has a rating of 4.8, and it costs $18.6
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #40 -- Gloria Vanderbilt Women's Classic Amanda High Rise Tapered Jean has a rating of 4.3, and it costs $10.0
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #41 -- Hanes EcoSmart Hoodie, Midweight Fleece, Pullover Hooded Sweatshirt for Men has a rating of 4.5, and it costs $16.75
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #42 -- Fruit of the Loom Eversoft Fleece Hoodies, Pullover & Full Zip, Moisture Wicking & Breathable, Sizes S-4X has a rating of 4.6, and it costs $13.49
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #43 -- Jar of Fucks（5oz）Gift Jar,Fucks to Give,Fuck Wooden Cutout Letter Piece Bad Mood Vent Spoof Birthday Day,Holiday, Gift to Friend,Funny Gift,Valentines Day. has a rating of 4.9, and it costs $13.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #44 -- Cats Dogs ID Tags Personalized Lovely Symbols Pets Collar Name Accessories Simple Custom Engraved Products for Extra Small Four Legged Child Necklace Chain Anti-Lost Shiny Stainless Steel Charm has a rating of 4.7, and it costs $5.98
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #45 -- 14K Gold Filled Small Hoop Earrings for Cartilage Nose, Tiny Thin 7mm Piercing Hoop Ring 22 Gauge has a rating of 4.0, and it costs $12.98
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #46 -- 3mm Tiny CZ Screw on Flat Back Stud Earrings,14K Gold Flat Back Cubic Zirconia Earrings for Helix Cartilage Tragus Earlobe Piercing Jewelry Gift for Women Girls Toddlers(3mm CZ, Gold) has a rating of 4.4, and it costs $11.95
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #47 -- Locsanity Daily Moisturizing Refreshing Spray for Locs, Dreadlocks - Rose Water and Peppermint Hair Scalp Moisturizer, Dreadlock Spray - Natural Loc Care and Maintenance (8oz) has a rating of 4.5, and it costs $19.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #48 -- Personalized Custom Wood Name Sign, Nursery Name Sign, Family Name Signs, Choice of Size & Fonts! has a rating of 4.5, and it costs $7.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #49 -- Amazon Fire TV Stick, HD, sharp picture quality, fast streaming, free & live TV, Alexa Voice Remote with TV controls has a rating of 4.7, and it costs $19.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #50 -- All-new Amazon Fire TV Stick 4K streaming device, more than 1.5 million movies and TV episodes, supports Wi-Fi 6, watch free & live TV has a rating of 4.5, and it costs $49.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #51 -- All-new Amazon Fire TV Stick 4K Max streaming device, supports Wi-Fi 6E, free & live TV without cable or satellite has a rating of 4.5, and it costs $59.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #52 -- Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Charcoal has a rating of 4.7, and it costs $49.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #53 -- Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black) has a rating of 4.3, and it costs $59.99
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #54 -- Blink Mini – Compact indoor plug-in smart security camera, 1080p HD video, night vision, motion detection, two-way audio, easy set up, Works with Alexa – 1 camera (White) has a rating of 4.4, and it costs $17.38
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #55 -- Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More has a rating of 4.7, and it costs $45.0
+
+2023-11-12 12:56:55,281 - my_logger - INFO - Product #56 -- Alpha Grillers Instant Read Meat Thermometer for Grill and Cooking. Best Waterproof Ultra Fast Thermometer with Backlight & Calibration. Digital Food Probe for Kitchen, Outdoor Grilling and BBQ! has a rating of 4.7, and it costs $15.99
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #57 -- Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24-oz, Blue/Teal (Denim) has a rating of 4.8, and it costs $23.05
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #58 -- Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Men Him Her | Trek Collection | Almond Birch has a rating of 4.8, and it costs $29.99
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #59 -- Stanley IceFlow Stainless Steel Tumbler with Straw, Vacuum Insulated Water Bottle for Home, Office or Car, Reusable Cup with Straw Leakproof Flip has a rating of 4.7, and it costs $35.0
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #60 -- Reynolds Kitchens Slow Cooker Liners, Regular (Fits 3-8 Quarts), 6 Count has a rating of 4.8, and it costs $3.48
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #61 -- The Woman in Me has a rating of 4.5, and it costs $16.4
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #62 -- Iron Flame: Empyrean, Book 2 has a rating of 4.7, and it costs $36.74
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #63 -- Friends, Lovers, and the Big Terrible Thing: A Memoir has a rating of 4.5, and it costs $17.82
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #64 -- Fourth Wing: Empyrean, Book 1 has a rating of 4.8, and it costs $7.99
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #65 -- My Name Is Barbra has a rating of 4.6, and it costs $61.25
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #66 -- Resurrection Walk has a rating of 4.8, and it costs $27.94
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #67 -- CELSIUS Assorted Flavors Official Variety Pack, Functional Essential Energy Drinks, 12 Fl Oz (Pack of 12) has a rating of 4.7, and it costs $35.99
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #68 -- Premier Protein Shake 30g Protein 1g Sugar 24 Vitamins Minerals Nutrients to Support Immune Health For keto diet , Chocolate, 11.5 Fl Oz (Pack of 12), Liquid,Powder, Bottle has a rating of 4.5, and it costs $22.49
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #69 -- Amazon Brand - Solimo Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers 100 Count(Pack of 1) has a rating of 4.4, and it costs $24.46
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #70 -- Sparkling ICE, Black Raspberry Sparkling Water, Zero Sugar Flavored Water, with Vitamins and Antioxidants, Low Calorie Beverage, 17 fl oz Bottles (Pack of 12) has a rating of 4.7, and it costs $10.98
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #71 -- Starbucks K-Cup Coffee Pods—Medium Roast Coffee—Pike Place Roast for Keurig Brewers—100% Arabica—4 boxes (96 pods total) has a rating of 4.7, and it costs $45.31
+
+2023-11-12 12:56:55,282 - my_logger - INFO - Product #72 -- Nespresso Capsules VertuoLine, Stormio, Dark Roast Coffee, Coffee Pods, Brews 7.77 Ounce (VERTUOLINE ONLY), 10 Count (Pack of 3) has a rating of 4.8, and it costs $37.5
+
+2023-11-12 12:56:55,282 - my_logger - DEBUG - COMPLETED!
+2023-11-12 13:49:28,157 - my_logger - DEBUG - Selecting data from DB...
+2023-11-12 13:49:28,158 - my_logger - INFO - Product #1 -- Hanes Men's Ecosmart Fleece Sweatshirt, Cotton-blend Pullover, Crewneck Sweatshirt for Men (1 Or 2 Pack) has a rating of 4.6, and it costs $8.91
+
+2023-11-12 13:49:28,158 - my_logger - INFO - Product #2 -- Crocs Unisex-Adult Classic Clogs has a rating of 4.8, and it costs $35.98
+
+2023-11-12 13:49:28,158 - my_logger - INFO - Product #3 -- Carhartt Men's Knit Cuffed Beanie has a rating of 4.8, and it costs $18.6
+
+2023-11-12 13:49:28,158 - my_logger - INFO - Product #4 -- Gloria Vanderbilt Women's Classic Amanda High Rise Tapered Jean has a rating of 4.3, and it costs $10.0
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #5 -- Hanes EcoSmart Hoodie, Midweight Fleece, Pullover Hooded Sweatshirt for Men has a rating of 4.5, and it costs $16.75
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #6 -- Fruit of the Loom Eversoft Fleece Hoodies, Pullover & Full Zip, Moisture Wicking & Breathable, Sizes S-4X has a rating of 4.6, and it costs $13.49
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #7 -- Jar of Fucks（5oz）Gift Jar,Fucks to Give,Fuck Wooden Cutout Letter Piece Bad Mood Vent Spoof Birthday Day,Holiday, Gift to Friend,Funny Gift,Valentines Day. has a rating of 4.9, and it costs $13.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #8 -- Cats Dogs ID Tags Personalized Lovely Symbols Pets Collar Name Accessories Simple Custom Engraved Products for Extra Small Four Legged Child Necklace Chain Anti-Lost Shiny Stainless Steel Charm has a rating of 4.7, and it costs $5.98
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #9 -- 14K Gold Filled Small Hoop Earrings for Cartilage Nose, Tiny Thin 7mm Piercing Hoop Ring 22 Gauge has a rating of 4.0, and it costs $12.98
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #10 -- 3mm Tiny CZ Screw on Flat Back Stud Earrings,14K Gold Flat Back Cubic Zirconia Earrings for Helix Cartilage Tragus Earlobe Piercing Jewelry Gift for Women Girls Toddlers(3mm CZ, Gold) has a rating of 4.4, and it costs $11.95
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #11 -- Locsanity Daily Moisturizing Refreshing Spray for Locs, Dreadlocks - Rose Water and Peppermint Hair Scalp Moisturizer, Dreadlock Spray - Natural Loc Care and Maintenance (8oz) has a rating of 4.5, and it costs $19.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #12 -- Personalized Custom Wood Name Sign, Nursery Name Sign, Family Name Signs, Choice of Size & Fonts! has a rating of 4.5, and it costs $7.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #13 -- Amazon Fire TV Stick, HD, sharp picture quality, fast streaming, free & live TV, Alexa Voice Remote with TV controls has a rating of 4.7, and it costs $19.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #14 -- All-new Amazon Fire TV Stick 4K streaming device, more than 1.5 million movies and TV episodes, supports Wi-Fi 6, watch free & live TV has a rating of 4.5, and it costs $49.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #15 -- All-new Amazon Fire TV Stick 4K Max streaming device, supports Wi-Fi 6E, free & live TV without cable or satellite has a rating of 4.5, and it costs $59.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #16 -- Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Charcoal has a rating of 4.7, and it costs $49.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #17 -- Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black) has a rating of 4.3, and it costs $59.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #18 -- Blink Mini – Compact indoor plug-in smart security camera, 1080p HD video, night vision, motion detection, two-way audio, easy set up, Works with Alexa – 1 camera (White) has a rating of 4.4, and it costs $17.38
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #19 -- Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More has a rating of 4.7, and it costs $45.0
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #20 -- Alpha Grillers Instant Read Meat Thermometer for Grill and Cooking. Best Waterproof Ultra Fast Thermometer with Backlight & Calibration. Digital Food Probe for Kitchen, Outdoor Grilling and BBQ! has a rating of 4.7, and it costs $15.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #21 -- Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24-oz, Blue/Teal (Denim) has a rating of 4.8, and it costs $23.05
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #22 -- Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Men Him Her | Trek Collection | Almond Birch has a rating of 4.8, and it costs $29.99
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #23 -- Stanley IceFlow Stainless Steel Tumbler with Straw, Vacuum Insulated Water Bottle for Home, Office or Car, Reusable Cup with Straw Leakproof Flip has a rating of 4.7, and it costs $35.0
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #24 -- Reynolds Kitchens Slow Cooker Liners, Regular (Fits 3-8 Quarts), 6 Count has a rating of 4.8, and it costs $3.48
+
+2023-11-12 13:49:28,159 - my_logger - INFO - Product #25 -- The Woman in Me has a rating of 4.5, and it costs $16.4
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #26 -- Iron Flame: Empyrean, Book 2 has a rating of 4.7, and it costs $36.74
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #27 -- Friends, Lovers, and the Big Terrible Thing: A Memoir has a rating of 4.5, and it costs $17.82
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #28 -- Fourth Wing: Empyrean, Book 1 has a rating of 4.8, and it costs $7.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #29 -- My Name Is Barbra has a rating of 4.6, and it costs $61.25
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #30 -- Resurrection Walk has a rating of 4.8, and it costs $27.94
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #31 -- CELSIUS Assorted Flavors Official Variety Pack, Functional Essential Energy Drinks, 12 Fl Oz (Pack of 12) has a rating of 4.7, and it costs $35.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #32 -- Premier Protein Shake 30g Protein 1g Sugar 24 Vitamins Minerals Nutrients to Support Immune Health For keto diet , Chocolate, 11.5 Fl Oz (Pack of 12), Liquid,Powder, Bottle has a rating of 4.5, and it costs $22.49
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #33 -- Amazon Brand - Solimo Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers 100 Count(Pack of 1) has a rating of 4.4, and it costs $24.46
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #34 -- Sparkling ICE, Black Raspberry Sparkling Water, Zero Sugar Flavored Water, with Vitamins and Antioxidants, Low Calorie Beverage, 17 fl oz Bottles (Pack of 12) has a rating of 4.7, and it costs $10.98
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #35 -- Starbucks K-Cup Coffee Pods—Medium Roast Coffee—Pike Place Roast for Keurig Brewers—100% Arabica—4 boxes (96 pods total) has a rating of 4.7, and it costs $45.31
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #36 -- Nespresso Capsules VertuoLine, Stormio, Dark Roast Coffee, Coffee Pods, Brews 7.77 Ounce (VERTUOLINE ONLY), 10 Count (Pack of 3) has a rating of 4.8, and it costs $37.5
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #37 -- Hanes Men's Ecosmart Fleece Sweatshirt, Cotton-blend Pullover, Crewneck Sweatshirt for Men (1 Or 2 Pack) has a rating of 4.6, and it costs $8.91
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #38 -- Crocs Unisex-Adult Classic Clogs has a rating of 4.8, and it costs $35.98
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #39 -- Carhartt Men's Knit Cuffed Beanie has a rating of 4.8, and it costs $18.6
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #40 -- Gloria Vanderbilt Women's Classic Amanda High Rise Tapered Jean has a rating of 4.3, and it costs $10.0
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #41 -- Hanes EcoSmart Hoodie, Midweight Fleece, Pullover Hooded Sweatshirt for Men has a rating of 4.5, and it costs $16.75
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #42 -- Fruit of the Loom Eversoft Fleece Hoodies, Pullover & Full Zip, Moisture Wicking & Breathable, Sizes S-4X has a rating of 4.6, and it costs $13.49
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #43 -- Jar of Fucks（5oz）Gift Jar,Fucks to Give,Fuck Wooden Cutout Letter Piece Bad Mood Vent Spoof Birthday Day,Holiday, Gift to Friend,Funny Gift,Valentines Day. has a rating of 4.9, and it costs $13.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #44 -- Cats Dogs ID Tags Personalized Lovely Symbols Pets Collar Name Accessories Simple Custom Engraved Products for Extra Small Four Legged Child Necklace Chain Anti-Lost Shiny Stainless Steel Charm has a rating of 4.7, and it costs $5.98
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #45 -- 14K Gold Filled Small Hoop Earrings for Cartilage Nose, Tiny Thin 7mm Piercing Hoop Ring 22 Gauge has a rating of 4.0, and it costs $12.98
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #46 -- 3mm Tiny CZ Screw on Flat Back Stud Earrings,14K Gold Flat Back Cubic Zirconia Earrings for Helix Cartilage Tragus Earlobe Piercing Jewelry Gift for Women Girls Toddlers(3mm CZ, Gold) has a rating of 4.4, and it costs $11.95
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #47 -- Locsanity Daily Moisturizing Refreshing Spray for Locs, Dreadlocks - Rose Water and Peppermint Hair Scalp Moisturizer, Dreadlock Spray - Natural Loc Care and Maintenance (8oz) has a rating of 4.5, and it costs $19.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #48 -- Personalized Custom Wood Name Sign, Nursery Name Sign, Family Name Signs, Choice of Size & Fonts! has a rating of 4.5, and it costs $7.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #49 -- Amazon Fire TV Stick, HD, sharp picture quality, fast streaming, free & live TV, Alexa Voice Remote with TV controls has a rating of 4.7, and it costs $19.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #50 -- All-new Amazon Fire TV Stick 4K streaming device, more than 1.5 million movies and TV episodes, supports Wi-Fi 6, watch free & live TV has a rating of 4.5, and it costs $49.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #51 -- All-new Amazon Fire TV Stick 4K Max streaming device, supports Wi-Fi 6E, free & live TV without cable or satellite has a rating of 4.5, and it costs $59.99
+
+2023-11-12 13:49:28,160 - my_logger - INFO - Product #52 -- Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Charcoal has a rating of 4.7, and it costs $49.99
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #53 -- Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black) has a rating of 4.3, and it costs $59.99
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #54 -- Blink Mini – Compact indoor plug-in smart security camera, 1080p HD video, night vision, motion detection, two-way audio, easy set up, Works with Alexa – 1 camera (White) has a rating of 4.4, and it costs $17.38
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #55 -- Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More has a rating of 4.7, and it costs $45.0
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #56 -- Alpha Grillers Instant Read Meat Thermometer for Grill and Cooking. Best Waterproof Ultra Fast Thermometer with Backlight & Calibration. Digital Food Probe for Kitchen, Outdoor Grilling and BBQ! has a rating of 4.7, and it costs $15.99
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #57 -- Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24-oz, Blue/Teal (Denim) has a rating of 4.8, and it costs $23.05
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #58 -- Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Men Him Her | Trek Collection | Almond Birch has a rating of 4.8, and it costs $29.99
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #59 -- Stanley IceFlow Stainless Steel Tumbler with Straw, Vacuum Insulated Water Bottle for Home, Office or Car, Reusable Cup with Straw Leakproof Flip has a rating of 4.7, and it costs $35.0
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #60 -- Reynolds Kitchens Slow Cooker Liners, Regular (Fits 3-8 Quarts), 6 Count has a rating of 4.8, and it costs $3.48
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #61 -- The Woman in Me has a rating of 4.5, and it costs $16.4
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #62 -- Iron Flame: Empyrean, Book 2 has a rating of 4.7, and it costs $36.74
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #63 -- Friends, Lovers, and the Big Terrible Thing: A Memoir has a rating of 4.5, and it costs $17.82
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #64 -- Fourth Wing: Empyrean, Book 1 has a rating of 4.8, and it costs $7.99
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #65 -- My Name Is Barbra has a rating of 4.6, and it costs $61.25
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #66 -- Resurrection Walk has a rating of 4.8, and it costs $27.94
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #67 -- CELSIUS Assorted Flavors Official Variety Pack, Functional Essential Energy Drinks, 12 Fl Oz (Pack of 12) has a rating of 4.7, and it costs $35.99
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #68 -- Premier Protein Shake 30g Protein 1g Sugar 24 Vitamins Minerals Nutrients to Support Immune Health For keto diet , Chocolate, 11.5 Fl Oz (Pack of 12), Liquid,Powder, Bottle has a rating of 4.5, and it costs $22.49
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #69 -- Amazon Brand - Solimo Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers 100 Count(Pack of 1) has a rating of 4.4, and it costs $24.46
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #70 -- Sparkling ICE, Black Raspberry Sparkling Water, Zero Sugar Flavored Water, with Vitamins and Antioxidants, Low Calorie Beverage, 17 fl oz Bottles (Pack of 12) has a rating of 4.7, and it costs $10.98
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #71 -- Starbucks K-Cup Coffee Pods—Medium Roast Coffee—Pike Place Roast for Keurig Brewers—100% Arabica—4 boxes (96 pods total) has a rating of 4.7, and it costs $45.31
+
+2023-11-12 13:49:28,161 - my_logger - INFO - Product #72 -- Nespresso Capsules VertuoLine, Stormio, Dark Roast Coffee, Coffee Pods, Brews 7.77 Ounce (VERTUOLINE ONLY), 10 Count (Pack of 3) has a rating of 4.8, and it costs $37.5
+
+2023-11-12 13:49:28,161 - my_logger - DEBUG - COMPLETED!
